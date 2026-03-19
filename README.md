@@ -2,7 +2,7 @@
 
 Measure typing speed (WPM) and accuracy with multilingual passages across 10 languages and 4 difficulty levels, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/text-tools/typing-speed-tester
+**Live Demo:** https://file-converter-free.com/en/text-tools/typing-speed-tester-online
 
 ## How It Works
 
